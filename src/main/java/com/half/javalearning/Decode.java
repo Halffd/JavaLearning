@@ -12,7 +12,6 @@ import java.util.Map;
 import java.util.Scanner;
 
 public class Decode {
-
     public static void test(String[] args) {
         if (args.length > 0 && args[0].equals("--interactive")) {
             runInteractiveMode();

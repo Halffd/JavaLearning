@@ -1,6 +1,6 @@
-package com.half.javalearning;
+package com.half.javalearning.aluno;
 
-public class Aluno {
+public class AlunoTeste {
     /* Atributos */
     private String nome;
     /* Getters e Setters */
@@ -12,7 +12,7 @@ public class Aluno {
     }
     // Static methods
     public static void criar(){
-        Aluno a = new Aluno();
+        AlunoTeste a = new AlunoTeste();
         a.setNome("Joao");
         System.out.println("saida: "+a.getNome());
     }

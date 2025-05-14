@@ -1,4 +1,4 @@
-package com.half.javalearning;
+package com.half.javalearning.classes;
 
 public abstract class AbstractBaseClass {
     protected String name;

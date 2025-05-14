@@ -1,4 +1,4 @@
-package com.half.javalearning;
+package com.half.javalearning.classes;
 
 // @AutoValue
 public abstract class Classes {

@@ -1,4 +1,4 @@
-package com.half.javalearning;
+package com.half.javalearning.classes;
 
 public class ConcreteExample extends SuperComplexExample<Integer, String> {
     int value;

@@ -2,5 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Minecraft/fabric-mod" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Minecraft/forge-mod/FirstMod" vcs="Git" />
   </component>
 </project>
